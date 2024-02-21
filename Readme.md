@@ -6,11 +6,11 @@ Name2 is Age2;
 NameN is AgeN;  
   
 As you can see the file only contains name of someone/something and their age.  
-Server would respond to request in the next way(In fact server will return json file): 
-{
+Server would respond to request in the next way(In fact server will return json file):  
+{  
     "Name1": "Age1",  
     "Name2": "Age2",  
     ...  
-    "NameN": "AgeN"
+    "NameN": "AgeN"  
 }
 
